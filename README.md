@@ -26,4 +26,17 @@ Manually Fill Attendance Button in UI is for fill a manually attendance (without
 
 ![image](https://github.com/Meeran-1998/Face-Recognition-Attendance-Management-System---Using-python/assets/149226875/aaacc1ec-c31f-4477-aeed-2e7474d4b46a)
 
+![image](https://github.com/Meeran-1998/Face-Recognition-Attendance-Management-System---Using-python/assets/149226875/b6e53e04-ab30-4f8b-aca0-0860568a15eb)
+
+![image](https://github.com/Meeran-1998/Face-Recognition-Attendance-Management-System---Using-python/assets/149226875/64a9f049-7e1f-443c-ba98-e618f2ce2063)
+
+![image](https://github.com/Meeran-1998/Face-Recognition-Attendance-Management-System---Using-python/assets/149226875/4e0be1cd-1d0f-4ad9-bb5d-5f7abcaef1c7)
+
+![Prgya](https://github.com/Meeran-1998/Face-Recognition-Attendance-Management-System---Using-python/assets/149226875/6ef20136-4e9b-49a3-8417-c06b807ef317)
+
+
+
+
+
+
 
